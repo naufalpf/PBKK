@@ -9,6 +9,6 @@
     "url": "git+https://github.com/naufalpf/pbkk.git"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   }
 }
